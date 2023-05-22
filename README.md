@@ -1,2 +1,2 @@
 # python-search
-Pada Praktikum ini Melakukan Percobaan Dan Latihan Tentang Squential Dan Binary Search Dengan Phyton, Memahami Konsep Dan Jenis Searching, Menerapkan Konsep Searching
+Pada praktikum ini melakukan percobaan dan latihan tentang Squential dan Binary Search dengan Phyton, memahami konsep dan jenis Searching, menerapkan konsep searching
